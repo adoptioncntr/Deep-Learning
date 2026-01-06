@@ -1,4 +1,5 @@
-#My Venture into Deep Learning! Experiments, Models, and Training Strategy
+**My Venture into Deep Learning! Experiments, Models, and Training Strategy**
+
 This repository is a personal deep learning playground where I explore **how model design, optimization choices, and training strategy actually affect performance**.
 
 Rather than treating models as black boxes, I use these projects to:
